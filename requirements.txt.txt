@@ -1,6 +1,0 @@
-streamlit
-librosa
-numpy
-tensorflow
-scikit-learn
-joblib
